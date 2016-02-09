@@ -1,6 +1,6 @@
 div {
 	
-	display: block;
+	display: inline-block;
 	width: 80px;
 	height: 110px;
 	position: relative;
@@ -14,10 +14,7 @@ body {
 
 .primero  {
 	
-
-	position: absolute;
-	margin-top: 300px;
-	margin-left: 300px;
+	display: inline-block;
 	width: 200px;
 	height: 200px;
 	background: #ee3e64;
@@ -25,29 +22,23 @@ body {
 
 .segundo  {
 	
-	position: absolute;
-	margin-top: 300px;
-	margin-right: 300px;
+	display: inline-block;
+	position: relative;
+	margin-left: 200px;
 	width: 200px;
 	height: 200px;
 	background: #44accf;
 }
 
 .tercero {
-
-	position: absolute;
-	margin-left: 300px;
-	margin-bottom: 300px;
+	display: inline-block;
 	width: 200px;
 	height: 200px;
 	background: #b7d84b;
 }
  
 .cuarto {
-
-	position: absolute;
-	margin-right: 300px;
-	margin-bottom: 300px;
+	display: inline-block;
 	width: 200px;
 	height: 200px;
 	background: yellow;
