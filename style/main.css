@@ -18,7 +18,7 @@ body {
 	height: 200px;
 	background: #ee3e64;
 	margin-top: 10px;
-	position: static;
+	position: relative;
 }
 
 .segundo  {
@@ -26,7 +26,7 @@ body {
 	width: 200px;
 	height: 200px;
 	background: #44accf;
-	position: static;
+	position: relative;
 }
 
 .tercero {
@@ -34,6 +34,6 @@ body {
 	width: 200px;
 	height: 200px;
 	background: #b7d84b;
-	position: static;
+	position: relative;
 }
  
